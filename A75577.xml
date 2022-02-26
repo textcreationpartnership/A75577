@@ -1,0 +1,1086 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aristotle's legacy: or, his golden cabinet of secrets opened. In five treatices 1. The wheel of fortune. 2. The art of Palmestry. 3. A treatise of moles 4. The interpreter of dreams. 5. Observations on fortunate and unfortunate days. With many other secrets and experiments, never before published. To which is added, a compleat book of riddles. 1. The fortune teller, or knowledge of good &amp; bad fortune, ... 7. Also the best and most powerful receipt for making love powder. To which are added twenty merry and pleasant riddles, with their solutions or explanations: the whole illustrated throughout with curious cuts, proper to each particular: being the best, most exact, and accomplished book of this nature.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75577</idno>
+            <idno type="STC">Wing A3697dA</idno>
+            <idno type="STC">ESTC R230117</idno>
+            <idno type="EEBO-CITATION">99896189</idno>
+            <idno type="PROQUEST">99896189</idno>
+            <idno type="VID">153809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2381:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aristotle's legacy: or, his golden cabinet of secrets opened. In five treatices 1. The wheel of fortune. 2. The art of Palmestry. 3. A treatise of moles 4. The interpreter of dreams. 5. Observations on fortunate and unfortunate days. With many other secrets and experiments, never before published. To which is added, a compleat book of riddles. 1. The fortune teller, or knowledge of good &amp; bad fortune, ... 7. Also the best and most powerful receipt for making love powder. To which are added twenty merry and pleasant riddles, with their solutions or explanations: the whole illustrated throughout with curious cuts, proper to each particular: being the best, most exact, and accomplished book of this nature.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare, at the Looking-Glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2381 has pages torn with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Riddles --  Early works to 1800.</term>
+               <term>Fortune-telling --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153809:1"/>
+            <p>Ariſtotle's Legacy: OR, HIS Golden CABINET of Secrets Opened. IN Five Treatices.</p>
+            <list>
+               <item>1. The Wheel of For<g ref="char:EOLhyphen"/>tune.</item>
+               <item>2 The Art of Palmeſtry</item>
+               <item>3. A Treatiſe of Moles</item>
+               <item>4. The Interpreter of Dreams.</item>
+               <item>5. Obſervations on Fortunate and Un<g ref="char:EOLhyphen"/>fortunate days.</item>
+            </list>
+            <p>With many other Secrets and Experiments, never before Publiſhed. To which is Added, A Compleat Book of RIDDLES.</p>
+            <p>1. The <hi>fortune-teller,</hi> or <hi>Knowledge</hi> of good &amp; bad <hi>fortune,</hi> by <hi>throwing</hi> the Dice on the Wheel of Fortune. 2. By Palmeſtry, as the Lines or Marks in the Hand. 3. By Phiſog<g ref="char:EOLhyphen"/>nomy, or the ſeveral parts of the Face, and Head; as Eyes, Noſe, Chin, Hair, <hi>&amp;c.</hi> By Metopoſ<g ref="char:EOLhyphen"/>copy, as the ſeveral <hi>Lines</hi> and <hi>Marks</hi> in the Forehead, and other parts of the Face: With Marks, and ſacred Characters, and all other matters, relating to long or ſhort life, <hi>Love, Buſineſs:</hi> The Humours and Diſpoſitions of the Partys, and how they are Enclin'd. 4. A Treatiſe of Moles, and their ſignifications, on the Face, or any part of the Body. The like of Dreams and their inter<g ref="char:EOLhyphen"/>pretation; more exact than ever. 5. Obſervations on <hi>Valentines</hi> day, St. <hi>Agnes</hi> day, and upon the firſt hearing the Cuckoo, as they particularly relate to Love and Marriage: by which a Maid or Widdow may know whether her ſweet-heart be true or falſe, in earneſt or in jeſt; when Married, and if Fortunate or Unfortunate, in Wedlock. 6. To know whether a pure Virgin or not: How to make an Enchanted Ring, to make any who wears it, to fall in love with you. 7. Alſo the beſt and moſt powerful Receipt for making Love Powder. To which are Added twenty Mer<g ref="char:EOLhyphen"/>ry and Pleaſant Riddles, with their Solutions or Explanations: The whole illuſtrated throughout with Curious Cuts, proper to each particular: Being the beſt, moſt exact, and accompliſhed Book of this Nature.</p>
+            <p>Tranſlated into <hi>Engliſh</hi> by Dr. <hi>Borman,</hi> Student in Aſtrology.</p>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>J. Blare,</hi> at the Looking-Glaſs on <hi>London-Bridge.</hi>
+            </p>
+            <pb facs="tcp:153809:2"/>
+            <pb facs="tcp:153809:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153809:3"/>
+            <pb n="3" facs="tcp:153809:3"/>
+            <div type="part">
+               <head>OF THE Wheel of Fortune.</head>
+               <figure>
+                  <figDesc>dice faces surrounded by a circle with thirty sequentially numbered divisions, a sun, a new and a full moon, a man, a woman, a kissing couple, and a necklace(?)</figDesc>
+                  <p>New Moone</p>
+                  <p>full Moone</p>
+               </figure>
+               <p>HERE you muſt Throw to know your FORTUNE, with two Dice; and, as the Number comes up, go to the Figure of Men for Men; and that of Women for Women: Suppoſe (for Example) you throw two Duces, go to Number <hi>Four,</hi> and there you'll find theſe words:
+<q>
+                     <l>You throw unluckily, ſhe that You wou'd Wid,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nto another gives her Maiden-head.</l>
+                  </q>
+               </p>
+               <pb n="4" facs="tcp:153809:4"/>
+               <p>And ſo proceed in any other <hi>throw,</hi> and you will find your fortune; and the beſt Luck comes, throwing in the New or full of the <hi>Moon;</hi> and when you have thrown, you muſt not throw again.</p>
+               <div type="section">
+                  <head>How to know Good or Bad <hi>Fortune</hi> to Men, in <hi>Love Matters</hi> and <hi>Buſineſs,</hi> by Changes on the Dice, in the Wheel of Fortune.</head>
+                  <lg n="2">
+                     <head>(2)</head>
+                     <l>SHE will be brown, and of a middle Age;</l>
+                     <l>A brisk and lively Wench, I will engage:</l>
+                     <l>But in her love, with others you ſhall ſhare,</l>
+                     <l>yet of the main Chance, ſhe will have a care.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>(3)</head>
+                     <l>Diſpair not yet, though <hi>you</hi> in love were croſt;</l>
+                     <l>A Fortune comes, Redeeming what is loſt;</l>
+                     <l>fair ſhe will be, and in her <hi>you</hi> will find,</l>
+                     <l>Though not much wealth, contentment of the mind.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>(4)</head>
+                     <l>
+                        <hi>You</hi> throw unlucky; ſhe that <hi>you</hi> wou'd Wed,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nto another gives her <hi>Maiden head;</hi>
+                     </l>
+                     <l>And if <hi>you</hi> have her, <hi>you</hi> will be much croſt,</l>
+                     <l>She's peeviſh, proud, and will be better loſt.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>(5)</head>
+                     <l>Lament no more for <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> that <hi>you</hi> does ſlight,</l>
+                     <l>And in one (much be<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> you) takes delight;</l>
+                     <l>The next Y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u Court, will be<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> prove, and kind;</l>
+                     <l>this (if purſu'd) will ſtill but vex your mind.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>(6)</head>
+                     <l>A luckey throw, the buſineſs that's in hand,</l>
+                     <l>
+                        <hi>You</hi> ſhall go thro' with, and much wealth command,</l>
+                     <l>The Lucky Planet Reign'd, when you begun it,</l>
+                     <l>And you had ſtill liv'd poor, had you not done it.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>(7)</head>
+                     <l>O for a Jovial Dame your Bed's deſign'd;</l>
+                     <l>She ll Guild your Fortune, b her being kind;</l>
+                     <l>She will not ſpend, but thrive by her Amours;</l>
+                     <l>And bring (with Horns) much plenty to your ſtores.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>(8)</head>
+                     <l>think once again, e'er you take it in hand;</l>
+                     <l>
+                        <hi>You</hi> do purſue what you don't underſtand:</l>
+                     <l>A Maid you think her, but the Stars ſay nay;</l>
+                     <l>
+                        <hi>You'll</hi> be a Father on your Wedding-day.</l>
+                  </lg>
+                  <lg n="9">
+                     <pb n="5" facs="tcp:153809:4"/>
+                     <head>(9)</head>
+                     <l>No more be fearful, it is ſo decreed,</l>
+                     <l>
+                        <hi>You</hi> muſt go on, and in your love ſucceed;</l>
+                     <l>What though you powerful Rivals have at laſt,</l>
+                     <l>
+                        <hi>You</hi> ſhall prevail, though'twill not be in haſt.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>(10)</head>
+                     <l>Believe not what is ſaid, it is not true,</l>
+                     <l>Thoſe that perſwade it are no friends to you;</l>
+                     <l>They wou'd break off the Match; that is their aim,</l>
+                     <l>She honeſt is, and free from ſuch a blame.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>(11)</head>
+                     <l>Conſider well, this is a luckey throw,</l>
+                     <l>If your neglecting does not make it low;</l>
+                     <l>Purſue your love, or you'll be Circumvented;</l>
+                     <l>And then your ſloath will be in vain repented.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>(12)</head>
+                     <l>Two Sizes; ah! what ſhall I ſay of this?</l>
+                     <l>I fear you will your Expectation miſs:</l>
+                     <l>However, give not o'er, but love purſue,</l>
+                     <l>The blank may turn to them, the Prize to you.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Good or bad <hi>Fortune <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>en</hi> on the Chance of the <hi>Dice,</hi> in <hi>Love</hi> and <hi>Buſineſs,</hi> by <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Wheel</hi> of <hi>Fortune.</hi>
+                  </head>
+                  <lg n="12">
+                     <head>(12)</head>
+                     <l>
+                        <hi>O</hi> Me, a Red-Hair'd Man will be your lot;</l>
+                     <l>But he to pleaſe You, has a good thing got;</l>
+                     <l>
+                        <hi>You</hi> Children will have many, and much pleaſure,</l>
+                     <l>Then be content without a World of treaſure.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>(11)</head>
+                     <l>Well thrown I vow, you now will catch the Fiſh,</l>
+                     <l>For which you Angle, and ſo long did wiſh;</l>
+                     <l>He ſees his Error, and he will be kind;</l>
+                     <l>And in your Change, you'll much contentment find.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>(10)</head>
+                     <l>
+                        <hi>Leave</hi> off your whining; caſt away your fears;</l>
+                     <l>The day comes on, you will dry up Your tears:</l>
+                     <l>'twas your own fault that made you ſo long ſtay;</l>
+                     <l>
+                        <hi>You</hi> ſee what's got, by fooliſh ſaying nay.</l>
+                  </lg>
+                  <lg n="9">
+                     <pb n="6" facs="tcp:153809:5"/>
+                     <head>(9)</head>
+                     <l>Lay all Your Scruples by, for this is he,</l>
+                     <l>That muſt (in ſpight of all) Your Husband be;</l>
+                     <l>What though he is not lovely to the ſight,</l>
+                     <l>He'll give you (in the Dark) Your hearts delight.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>(8)</head>
+                     <l>Ah me! how Croſs a Throw is this? you will not gain</l>
+                     <l>The Man you ſeek, though you purſue with pain;</l>
+                     <l>He's a deceiver, and already Wedd;</l>
+                     <l>He'll leave you when he's Cropt your Maiden-head.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>(7)</head>
+                     <l>Well may you bluſh, You will not Childleſs die,</l>
+                     <l>Though You in Marriage B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d do never lie;</l>
+                     <l>Your too ſoon yielding, made him falſe to prove;</l>
+                     <l>Had You been coy, you had entail'd his Love.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>(6)</head>
+                     <l>This Caſt (if you are wiſe) does promiſe you,</l>
+                     <l>You'll ſoon be Woo'd by one that's Chaſt and True;</l>
+                     <l>But manage well your buſineſs, leſt you loſe,</l>
+                     <l>What (to your content) you ought to Chooſe.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>(5)</head>
+                     <l>What you have took in hand, does promiſe well,</l>
+                     <l>And happie it will be, the <hi>Stars</hi> fore-tell;</l>
+                     <l>Neglect not then the viſits that are made,</l>
+                     <l>Leſt (by your folly) your good Luck's betray'd.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>(4)</head>
+                     <l>You've not ſlay'd too long, this is the time,</l>
+                     <l>Fortune comes to you in her gawdy prime;</l>
+                     <l>She flings her favours on you now at laſt,</l>
+                     <l>It flowing comes, when you fear'd it was paſt.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>(3)</head>
+                     <l>Hit upon hit, two comes at once to Wooe,</l>
+                     <l>But take the leaſt, the biggeſt will not do;</l>
+                     <l>He will be Kindeſt, and moſt Wealthy prove;</l>
+                     <l>The other not; he has been oft in love.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>(2)</head>
+                     <l>Duce take it; what a ſtrange turn up is here?</l>
+                     <l>You have your ſelf been too turn'd up I fear:</l>
+                     <l>It ſays you are with-Child, and yet I gather,</l>
+                     <l>E're the boy comes, you'll get a kind Father.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:153809:5"/>
+               <head>The whole Art of <hi>Palmeſtry,</hi> or telling <hi>Fortunes</hi> by the <hi>Hand;</hi> and firſt of the <hi>Hand</hi> to be choſen, and the <hi>Planets</hi> and <hi>Signs</hi> Governing the parts of it.</head>
+               <figure>
+                  <figDesc>the palm of a right hand, with several major lines noted and its parts linked to planetary and zodiacal signs</figDesc>
+               </figure>
+               <p>BEfore I proceed to particular <hi>Prognosticks</hi> (in <hi>Chiromancy</hi> or <hi>Palmeſtry</hi>) I muſt tell you the Left hand is the moſt proper to be impected, becauſe the <hi>Heart</hi> and <hi>Brain</hi> has the greater Influence on it; and do this when the <hi>Body</hi> is in a good Temper, not diſturb'd by <hi>Paſſions,</hi> or over <hi>Eating</hi> or <hi>Drinking;</hi> for then the <hi>Lines</hi> will not appear full, nor in their natural colour: A <hi>Hand,</hi> when the <hi>Lines</hi>
+                  <pb n="8" facs="tcp:153809:6"/> are broken, or much worn by <hi>hard labour,</hi> cannot be well inſpected, to make a true <hi>Judgment.</hi>
+               </p>
+               <p>As for the <hi>Planetary Rule</hi> in the Hand; <hi>Venus</hi> governs the Thumb, <hi>Jupiter</hi> the Fore-Finger, <hi>Saturn</hi> the longeſt or middle Finger, the <hi>Sun</hi> the third Finger, <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> the little Finger, the Brawn of the Hand is governed by the <hi>Moon,</hi> and the <hi>Hollow</hi> or <hi>plain</hi> bp <hi>Mars,</hi> and ſo the little Mounts or Riſings under each Finger, and the Ball of the Thumb, and the out-ſide Brawn, are under the reſpective <hi>Pla<g ref="char:EOLhyphen"/>nets,</hi> that Govern the Fingers, Thumb, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The ſeveral lines of the Hand, by which a True Judgment (in telling <hi>Fortunes</hi>) muſt be made.</head>
+               <p>
+                  <figure>
+                     <figDesc>the palm of a right hand, with several major lines and features noted</figDesc>
+                  </figure>
+               </p>
+               <p>THE moſt ſignificant in <hi>Palmeſtry,</hi> are thus deſcribed, <hi>viz.</hi> The Line of Life reaches from the <hi>Wreſt,</hi> almoſt to the Root of the <hi>Fore-Finger,</hi> the Table
+<pb n="9" facs="tcp:153809:6"/> 
+                  <hi>Line</hi> is in the middle, or <hi>Table</hi> of the <hi>Hand,</hi> and in ſome <hi>Hands</hi> runs along the <hi>four Mounts,</hi> participating of the Influence, of the reſpective <hi>Planets</hi> Governing them; the middle <hi>line</hi> running croſs the <hi>Hand,</hi> and ſometimes <hi>Obliquely</hi> it takes its be<g ref="char:EOLhyphen"/>ginning at the <hi>Riſing</hi> of the <hi>Fore-Finger,</hi> near the <hi>line</hi> of <hi>life,</hi> ending at the <hi>Mount</hi> of the <hi>Moon.</hi> The <hi>line</hi> of the <hi>Brain,</hi> uſually called the <hi>Liver line,</hi> reaches to the <hi>Table line,</hi> making a <hi>Triangle,</hi> thus ▵. The <hi>Girdle</hi> of <hi>Venus</hi> begins near the <hi>Joynt</hi> of the <hi>little Finger,</hi> &amp; ends between the <hi>fore-Finger,</hi> &amp; <hi>middle-Finger;</hi> the <hi>line of Death,</hi> or great <hi>Misfortunes,</hi> when it appears plain, as a <hi>Counter-line</hi> to the <hi>line</hi> of <hi>life;</hi> and therefore is called its <hi>Siſter line, ending</hi> as it <hi>ends;</hi> the <hi>percuſſion</hi> is between the <hi>Mount</hi> of <hi>Venus,</hi> and that of the <hi>Moon;</hi> the <hi>Wriſt lines,</hi> commonly called <hi>Reſcetta,</hi> are no other <hi>than</hi> thoſe <hi>Joynts</hi> that part the <hi>Hand.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Fortune, Good or Bad, known by the Lines, and other Marks and Characters, in the Hands of Men, Women, and Children.</head>
+               <figure>
+                  <figDesc>two right hand palms, marked by various lines, shapes, and symbols</figDesc>
+               </figure>
+               <p>HAving given you an inſpection of the <hi>Planets</hi> governing th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and of the <hi>Lines</hi> of the <hi>Hand,</hi> I come now to give you a true <hi>Judgm<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> upon them, as to Good or Bad Fortune, thereby ſignified to the Party, as they are more or leſs Significant in themſelves, or what other matters attend them.</p>
+               <pb n="10" facs="tcp:153809:7"/>
+               <p>When the <hi>Line</hi> of <hi>Life</hi> is fair, well proportioned, coloured, and diſpoſed, it denotes a quiet and peaceable Life, fortunate, and Healthful; but if <hi>Croſſes</hi> or <hi>Stars</hi> happen on it, the contrary is threatned: if a double Line of life appear, it promiſes long Life, advancement to Honour, and ſucceſs in weighty Affairs in Men, in Women much Love, encreaſe of Children, and great <hi>Felicity</hi> in Marriage Three Stars appearing in this Line, it threatens the party <hi>ſhall fall</hi> into many Diſgraces and troubles by envie and falſehood. Three Croſſes, appearing, denotes misfortunes in Love, and much miſchief thereby; when Lines come from the mount of <hi>Venus,</hi> and cut the <hi>Line</hi> of <hi>Life,</hi> it denotes the <hi>Party</hi> Unfortunate in Love or Buſineſs, and threatens him or her with ſud<g ref="char:EOLhyphen"/>den Death: if near the Ligament of the Thumb, a Woman have two Croſes, they Croſſing the upper part of the <hi>Line of Life,</hi> it denotes her to be Unchaſt, very immodeſt, and Luſtful, if the <hi>Line of Life</hi> croſs or twiſt with the table-line, then <hi>Honour</hi> and <hi>Riches</hi> are promiſed together, with the love and <hi>Favour of</hi> Great Ones: <hi>if</hi> the table-line be broad, and <hi>of</hi> a lively colour, it ſhews health, a contented mind, and the party Couragious and Succeſsful: if there be Croſſes in the <hi>table-Line,</hi> towards the little finger, they denote the party ſubject to much <hi>Sickneſs,</hi> and often troubled in Mind: if this Line he forked at the End, extending towards the mount of <hi>Jupiter,</hi> it denotes the party <hi>ſhall</hi> get Riches; but by <hi>Fraud</hi> and <hi>Deceit,</hi> be <hi>full</hi> of <hi>Doubts, Fears,</hi> and <hi>Jealouſies,</hi> and lead a wearyſom Life: if this table-line be crooked, it denotes the party in danger of <hi>Life,</hi> by ſome <hi>Furious beaſt,</hi> or <hi>Perſon Diſtracted,</hi> or diſ<g ref="char:EOLhyphen"/>ordered by drinking: if there be two <hi>Croſſes</hi> upon the table-line, it promi<g ref="char:EOLhyphen"/>ſes promotion by <hi>Learning:</hi> if on this line three ſtops; as thus... be found, they denote the <hi>Party Prud<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt,</hi> and riſing to <hi>great preferment,</hi> by good conduct, in managing weighty <hi>Affai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s:</hi> in the middle <hi>or Natural Line,</hi> which above the reſt has a <hi>Communication</hi> with the Vital Parts, has any <hi>Croſſes</hi> on it; it denotes Riches to the Party; but that he or ſhe is of a covetous ſordid temper.</p>
+               <p>As many Lines as are between the middle line, and the Thumb-line; denote to ſome, many Sickneſſes, and Caſualties; and yet the party eſcape with life.</p>
+               <p>If a <hi>Croſs</hi> branch from the <hi>Table-Line</hi> it denotes the party much addicted to Devotion, virtuouſly <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>clined, and riſing thereby to great promotion. The Middle-line cutting in two, and ſoon diſcontinuing, of a pale colour; denotes the diſpleaſure of princes, and by offending them, Death, or ſharp impriſon<g ref="char:EOLhyphen"/>ment will enſue: if the Line called the <hi>Girdle of Venus,</hi> happen to be Diſ<g ref="char:EOLhyphen"/>ſected, or divided near the Fore-Finger, it denotes the party much given to Luſtful deſires, that will prove Ruinous in the End: if the Sanctions be under the Middle finger, it endangers life, by <hi>evil courſes</hi> taken, to ſatisfie unlawful pleaſure.</p>
+            </div>
+            <div type="part">
+               <head>Sacred Characters, Marks, or Letters in the Hand, Relating to good or bad Fortune, in Men, Women, or Children.</head>
+               <p>THere are many letters often formed in the hand, called, Sacred Characters; and of theſe I ſhall ſpeak briefly, as they Relate to good or bad Fortune; an <hi>A</hi> found between the Mount of the Moon, and the <hi>hollow</hi> of the hand, denotes
+<pb n="11" facs="tcp:153809:7"/> 
+                  <hi>Sickneſs</hi> and <hi>Loſſes;</hi> but if it appears towards the <hi>Mount of Venus,</hi> it denotes hap<g ref="char:EOLhyphen"/>py Marriages, Joy, and Proſperity: if a T be on the <hi>Mount of Venus,</hi> it denotes ſucceſs in love Affairs; but if it comes ſo low as to cut the line of life, then it de<g ref="char:EOLhyphen"/>notes croſſes and misfortunes in love, and much miſchief: A <hi>P</hi> on the ball of
+<figure>
+                     <figDesc>the palm of a right hand, its lines and features marked by letters and numbers</figDesc>
+                  </figure> the Thumb denotes Honour and Preferment; a <hi>Q</hi> in the Angle or Hollow, many Marriages: an <hi>X</hi> Vexation and Trouble.</p>
+            </div>
+            <div type="part">
+               <head>Phiſognomy, or good and bad <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortune, told by the Lines of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace; and firſt of the Planets, and governing Signs.</head>
+               <p>PHyſognomy, as to the Lines of the face, and other Remarkable things in it, under the influence of the <hi>Planets</hi> and <hi>Signs,</hi> that Govern the Parts of the Body, are mainly ſignificant, as to knowing good or bad fortune, in Men or Wo<g ref="char:EOLhyphen"/>men; whereby one may, as it were, Read men and women, and underſtand by the outward parts, their manners, inclinations, and intellectual faculties; as well as what ſhall befal them in the progreſs of their Li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es: for the face, <hi>&amp;c.</hi> is under the Government, and Dominion of the <hi>Planets.</hi> Thus the fore-head is governed by <hi>Mars;</hi> the right Eye by <hi>Sol;</hi> the left by the <hi>Moon;</hi> the Right Ear by <hi>Jupiter;</hi>
+                  <pb n="12" facs="tcp:153809:8"/> the Left by <hi>Saturn,</hi> the Noſe by <hi>Venus;</hi> and the Mouth by <hi>Mercury:</hi> As for the ſigns of the <hi>Zodiack, Cancer</hi> governs the height of the Fore-head, <hi>Leo</hi> the right
+<figure>
+                     <figDesc>two male faces, one with its features marked with planetary signs, the other with zodiacal signs</figDesc>
+                  </figure> Eyebrow; <hi>Virgo</hi> the right Cheek; <hi>Libra</hi> the right Ear; <hi>Scorpio</hi> the Noſe; <hi>Sagi<g ref="char:EOLhyphen"/>tarius</hi> the right Eye, <hi>Capricorn</hi> the Chin; <hi>Aquarius</hi> the left Eye; <hi>Piſces</hi> the left Cheek; <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies</hi> the left Ear; <hi>Taurus</hi> the middle Fore-head.</p>
+            </div>
+            <div type="part">
+               <head>Good or Bad Fortune known by the Eyes, Noſe Mouth, Ears, <hi>&amp;c.</hi> of Men or Women.</head>
+               <p>LArge Eyes, denotes the party ſtout and Couragious, but Deceitful, and of a Quarrelſome humour. Eyes party colour, denotes a Woman much given
+<figure>
+                     <figDesc>a male and a female face with exaggerated forehead lines</figDesc>
+                  </figure> to Love, but inſtable and Unconſtant. Greeniſh little Eyes, ſtanding inward, denotes wiſdom and Councils, Fortunate in ſucceſs, <hi>&amp;c.</hi> A large Noſe, much
+<pb n="13" facs="tcp:153809:8"/> hanging down, denotes Covetouſneſs. A round Noſe at the extremitys <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſmall Noſtrils, denotes, in a Man Pride and incredulity; in a Woman, much given to Love and luſt. A red Noſe, naturally ſo, denotes a Contentious Turbu<g ref="char:EOLhyphen"/>lent, and Quarrelſome Perſon If in a female the Griſtle of the Noſe ſeem to part from the Bone<g ref="char:punc">▪</g> or to be dinted at the end, ſhe hath (undoubtedly) loſt her Virginity. A great Mouth, ſtanding unſeemly wide, denotes the party fooliſh, but a great babler, and Devulger of falſe ſtorys, delighting to make Miſchief. A little Mouth, well proportioned, denotes the party wiſe, peac<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able, loving and chaſt. The Ears large and thick, denotes a defect in Memory, and fooliſh: little and thin the <hi>contrary:</hi> A fleſhy Face denotes a merry chearful perſon: A thin lean one, a wiſe, but malicious, and covetous Perſon.</p>
+            </div>
+            <div type="part">
+               <head>Good or bad Fortune known by the Hair, Chin, and Eye-brows, of Man or Woman.</head>
+               <p>THE Hair of the Head thick and ſoft, denotes a man of an Affable mild Tem<g ref="char:EOLhyphen"/>per. Curled, harſh black hair, denotes the Party boiſterous, rough, and much given to anger. Golden hair, denotes the party treac<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erous, and covet<g ref="char:EOLhyphen"/>ous; Red Hair, enclining to black, wiſe, but crafty and ſubtil in miſchief. A Chaſenut coloured hair, ſignifies the party of fair condition, mild, &amp; well diſpoſed
+<figure>
+                     <figDesc>two faces with exaggerated forehead lines</figDesc>
+                  </figure> Sudden baldneſs in youth, denotes poverty. A long Chin, denotes a woman tur<g ref="char:EOLhyphen"/>bulent and vexatious; and a Man letcherous and fooliſh. A little Chin, denotes malice, fraud, and deſpight: A round Chin, denotes a Man effeminate, yet haughty and proud. A ſquare Chin denotes great courage, and agility of Body; A dimpled Chin, roundiſh, or a little oval, denotes the party loving, affable, and of a good temper. A lean wrinkled Chin, denotes the party unfit for Marriage Dutys. Fine little Eye-brows, denotes affability, love, and conſtancy; bending and over hanging Brows, the contrary: Eye-brows ſhort and narrow, denotes the Party of a ſoft plyable Temper. Eye-lids long, with long-hair, denotes the party clowniſh, and morroſs, yet of great ability of parts.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:153809:9"/>
+               <head>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Bad <hi>Fortune</hi> known by the Li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, Marks, and other Significations in the Fore<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad, and other parts of the Faces of Men <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Women.</head>
+               <p>LInes in the Face or Fore-head, are exceeding ſignificant, in matter of Fortune. Three ſtraight Lines, without any Section or Diviſion, denotes the Party very proſperous A Circle in the Line that paſſes crooked, through the Fore<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad, denotes loſs, and much trouble and diſgrace. A crooked line between two
+<figure>
+                     <figDesc>three faces with exaggerated forehead lines</figDesc>
+                  </figure> ſtraight Lines, denotes the party fortunate. A crooked Line, with a ſtraight line above it, denotes the party ſhall be Rich, but it will be gained by fraud and over-reaching. Two lines croſſing the fore-head, wavering in and out thus ♒ th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eatens the party to be in peril of life, by water. Two lines bending arch-wiſe over the E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-brows; one of them croſſed with a croſs, or three ſhort lines in a length, in the extremity of the fore-head, denotes the party to be good Natured, and to get Riches by Marriages. A croſs directly in the middle of the fore-head, with ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing lines aboue it, threatens the party with Violent death: four half lines, or lines that are not met in the middle of the fore-head, with a full line o<g ref="char:EOLhyphen"/>ver them, croſſed by two Sections, denotes loſs and affliction. A Star in the forehead, denotes great preferment.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Dreams,</hi> as they tend to good or bad Fortune, with their <hi>interpretations.</hi>
+               </head>
+               <p>DReam, (though ſome very ignorant in ſuch rare miſterys, have ſlighted them) are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ages, and wiſe men of all Ages very ſignificant; and that the S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul, wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy Repoſes, being diſcumbred from groſs and weighty Cares; for the fl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh (by this Myſterious way) Confabulates, or Converſes with Spirits or Angels, who bring to its Knowledge, future Events, very ſtrange and won<g ref="char:EOLhyphen"/>derful as in <hi>Scripture</hi> we find it in <hi>Pharoahs, Nebuch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dnezzers,</hi> and others Dreams, that exactly come to paſs, according to their <hi>Interpretation:</hi> But not to prolong the Matter, I proceed (by the <hi>Rules of Art</hi>) to give the interpretation of Dreams.</p>
+               <p>To Dream one is flying in the Air, promiſes haſty news, To Dream one Swims
+<pb n="15" facs="tcp:153809:9"/> with pleaſures in a toſſing water, denotes overcoming ſome difficult matter you have in hand. To Dream you hear Birds Sing Mellodiouſly, betokens Joy, and to the Sick Recovery. To Dream one preſents you with a Gold Ring, and puls it on your Finger, foreſhews ſpeedy <hi>Marriage.</hi> To Dream you are dancing in <hi>Jolly</hi>
+                  <figure>
+                     <figDesc>a group of people pointing at two floating heads?</figDesc>
+                  </figure> Company, ſignifies mu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Joy and mirth. To dream ſome Furious Beaſt purſues, and you cannot avoid it, betokens your Enemys <hi>will</hi> prevail againſt you. To dream you are ſtung or bitten by <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erpents or inſects, denotes miſchief, to come from malicious and private Enemys. To dream you meet a <hi>Lyon</hi> and he fawns on you denotes the Favour of great ones To dream one is in a Field <hi>of</hi> ſtanding Corn, denotes proſperity. To dream you meet a black Coffin, with <hi>Mourners,</hi> de<g ref="char:EOLhyphen"/>notes the death <hi>of</hi> ſome <hi>Friend.</hi> To dream one fights, &amp; overc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes, denotes ſuc<g ref="char:EOLhyphen"/>ceſs in what you are contending <hi>for,</hi> or eſcap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing dangers that threaten you. To dream you are waſhing your hands, and the di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t comes clean off, ſignifies you <hi>ſhall perform</hi> ſome great Enterprize. To dream a <hi>Friend</hi> is dead, denotes he or ſhe is <hi>well.</hi> To dream your <hi>Eyes</hi> or <hi>Teeth fall</hi> out, denotes, Sickneſs, or death <hi>of</hi> Children, or ſome intimate <hi>friend,</hi> or near Relation. To dream ones ſhooes <hi>falls</hi> off, or are old &amp; torn, denotes poverty and diſtreſs To dream a horſe runs away with you, denotes unexpected buſineſs, not pleaſing to you. To dream a Gold Ring breaks, and <hi>falls from</hi> your finger, denotes the loſs <hi>of</hi> a <hi>Lover,</hi> or ſome dear <hi>Friend.</hi> To dream you are ſailing in a Calm, denotes a peaceable <hi>Life;</hi> but ſuddenly overtaken in a Storm, trouble and affliction. To dream <hi>of Court<g ref="char:EOLhyphen"/>ing</hi> a beautiful Woman, betokens Croſſes and Vexation. To dream you put on fine Cloaths, denotes preferment. To dream you hunt a Hare, but cannot ta<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> her, denotes the loſs of ſome <hi>matter</hi> you <hi>are</hi> in <hi>purſuit</hi> of. To <hi>Dream</hi>
+                  <pb n="16" facs="tcp:153809:10"/> you endeavour to fly, and cannot,
+<figure>
+                     <figDesc>a giant devil or satyr with a broom and candle dancing inside a circle, surrounded by many dancing people</figDesc>
+                  </figure> betokens <hi>Impriſonment</hi> &amp; <hi>Reſtraints.</hi> A Virgin Dreaming ſhe is putting on New Garments, denotes an al<g ref="char:EOLhyphen"/>teration of her condition, by <hi>Mar<g ref="char:EOLhyphen"/>riage,</hi> to dream of lighted tapors, denotes the party ſhall be happy in many friends. To Dream of the Chattering of Swallows, denotes Sickneſs, or other Infirmitys to fall, For a barren woman to Dream ſhe proſtitutes her ſelf with one of her own Sex, denotes ſhe ſhall conceive; but to a <hi>Child-bearing Woman,</hi> it is <hi>Miſcarriage.</hi> To dream you ſee great fires, is anger or ſickneſs: For lovers To dream they fall out, denotes conſtancy, and affection: to dream one receives a Letter, denotes love &amp; conſtancy, or that the party ſhall have ſatisfaction in what he deſires: to dream one puts on new white Gloves, denotes the <hi>Marriage</hi> of Friends; but black ones their Death. For a Woman to Dream ſhe is with Child, De<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es Sorrow, and hard Labour; but to dream ſhe is delivered, the contrary. To dream you ſee an withered tree, ſprouting out, denotes <hi>Chilldren in old</hi> age: to dream you are caſt away in a Ship-wrack, denotes great loſſes in <hi>goods or eſtate:</hi> to dream you ſee a <hi>ſmall ſpring,</hi> grow into a <hi>great lake,</hi> denotes encreaſe of Riches: to dream of <hi>Ribbons,</hi> &amp; gay <hi>Plumes</hi> of <hi>Feathers</hi> denotes amendment of <hi>Fortune.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Other Advantagious ways particularly Relating to Love and Marriage, Approved and Succeſsful.</head>
+               <p>
+                  <figure>
+                     <figDesc>a man and woman kiss as another man looks on</figDesc>
+                  </figure>
+               </p>
+               <div type="section">
+                  <head>On <hi>Valentine's</hi> Day.</head>
+                  <p>TAke two Bay leaves, ſprinkle them with Roſe-water; the Evening of this day, lay them a-croſs under your pillow, when you go to bed, putting on a clean ſhift, and turning it the wrong ſide outwards; and lying down, ſay, theſe words ſoftly to your ſelf.</p>
+                  <q>
+                     <l>Good <hi>Valentine</hi> be kind to me,</l>
+                     <l>In Dreams let me my true Love ſee:</l>
+                  </q>
+                  <p>So croſſing your legs, and go to ſleep as ſoon as you can, you will ſee (in a Dream) the par<g ref="char:EOLhyphen"/>ty you are to Marry, come to your bed-ſide, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d offer you all modeſt Kindneſs, to your <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eat Contentment.</p>
+               </div>
+               <div type="section">
+                  <head>On St. <hi>Agne</hi>'s day.</head>
+                  <p>Take a Sprigg of <hi>Roſemary,</hi> and another of <hi>Time,</hi> ſprinkle them with your
+<pb n="17" facs="tcp:153809:10"/> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>rine,</hi> thrice; and in the Evening of this day, put one into one ſhooe, and the other into the other; place your ſhooes on each ſide your beds head, and going to bed ſay ſoftly to your ſelf.</p>
+                  <q>
+                     <l>St. <hi>Agnes</hi> that's to Lovers kind,</l>
+                     <l>Come eaſe the troubles of my mind.</l>
+                  </q>
+                  <p>Then take your reſt, having ſaid your prayers; when you are aſleep you will dream of your lover, and fancy you hear him talk to you of love, looking in the ſhooes, and attempting to put them on your Feet, with much kindneſs: If two are deſirous of you, they will both appear, and ſtrive who ſhall do you the beſt Offices, and the party who overcomes in this, is your lot; for you will per<g ref="char:EOLhyphen"/>ceive the other quickly vaniſh, ſighing and much diſpleaſed.</p>
+               </div>
+               <div type="section">
+                  <head>Love Obſervations on firſt hearing the Cuckoo.</head>
+                  <p>When you walk abroad (in the Spring) as ſoon as you hear the Cuckoo, ſit down on a bank, or any convenient place, and pull the Stocking from off your Right leg; and whilſt you are doing it, ſay:
+<q>
+                        <l>May this to me</l>
+                        <l>Now Luckey be.</l>
+                     </q> then look between your great toes, &amp; you will find a hair which will eaſily come off; take it, &amp; look well on it, &amp; you will perceive it to be the colour the partys hair you deſire; wrap it up it a piece of paper, and keep it ten days carefully, if then it has not changed colour, the party loved will be conſtant, and you will obtain your deſire; but if it do, you are flattered, and will be deceived.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Signs of Love, and ſpeedy Marriage; or the contrary, by ſeeing or meeting divers ſorts of Creatures, firſt in a morning.</head>
+               <p>
+                  <figure>
+                     <figDesc>cupid</figDesc>
+                  </figure>
+               </p>
+               <p>THeſe Signs of love and marriage, have been greatly taken notice of in their ex<g ref="char:EOLhyphen"/>act ſucceeding according to the <hi>partys deſire.</hi>
+               </p>
+               <div type="section">
+                  <p>If a <hi>Robin-Red-Breſt</hi> come fluttering to <hi>your</hi> window, and ſing pleaſantly, pearching near it, it denotes ſpeedy marriage to the party, and a merry contented life. If a hare ſta<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hand, you will have ſucceſs in love affairs <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hand, it denotes you <hi>will be croſſed</hi> and <hi>in</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>Swallows</hi> Charter <hi>merrily,</hi> and Sing in the <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it denotes you will have many ſweethear<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> at your window, betokens misfortunes <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> thing you hear in the morning, denotes <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a morning, carrying ſtraw in its mouth <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> married, and very fruitful in Children; <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> as you walk abroad, denotes much ſtri<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>to know whether a Fem<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <p>TAke <hi>Allablaſter;</hi> a quarter of an o<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſteep it in <hi>Aqua Vitae,</hi> then dry <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> liquor the party is to drink, contrar<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> her not bluſh, change colour, ſhe ha<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:153809:11"/>
+                  <head>To make an Enchanted Ring, to cauſe one to fall in love with you.</head>
+                  <p>Get a hollow Ring, ſteep Goats hair taken from the Beard, ſteep it in the juice of Night Shade, or Wake Robin, an herb ſo called, pull it through the Ring, and whoever wears it, it ſhall cauſe them to fall in love with you.</p>
+               </div>
+               <div type="section">
+                  <head>to make the true Love Powder.</head>
+                  <p>Take <hi>Ellicumpane,</hi> the ſeeds or flowers Viruine, and the berrys of Meſleto, beat them, when well dryed in an Oven, into a fine Powder, give it the party you deſign upon, a dram in a glaſs of wine, or other liquors, and it will work won<g ref="char:EOLhyphen"/>derful effects to your advantage.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Moles on the Face, their ſignification, as they relate to Good or Bad Fortune in Men, Women, and Children.</head>
+               <p>
+                  <hi>MOles</hi> in the Face particularly, and thoſe in parts of the body, are very ſignificant as to good or bad <hi>Fortune.</hi> A Mole on on the left ſide of the forehead, denotes the party ſhall get Riches by til<g ref="char:EOLhyphen"/>lage, building and planting. A mole on the right ſide of the forehead, promiſes happy contentment of life, a loving ſtate in matrimony, <hi>&amp;c.</hi> A Mole in the middle of the forehead, denotes the party ſubject
+<figure>
+                     <figDesc>three faces with exaggerated moles</figDesc>
+                  </figure> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>r ſide the right temple, denotes to a man encreaſe <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>cceſs in marriages, and a peaceable life. A Mole <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to either Sex, in the firſt part of their Age; but <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ear the right Eye-brow promiſes to man or wo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Reverſions, <hi>&amp;c.</hi> A Mole on the right ſide a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and virtuous. A Mole on the left ſide the face <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thwarting, and unexpected croſſes. A Mole on <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ar, denotes loſs in goods &amp; croſſes by Children, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ole on the lower part of the Eye-lid, between <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>gnifies</hi> a man much to be beloved by women, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>enious, Chaſte, and Faithful. A Mole on the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oman to be generally beloved, but much af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Noſtril, promiſes a man good ſucceſs in his <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> A Mole in the extremity of the Noſe, be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the party, man or woman, luſtful, but
+<pb n="19" facs="tcp:153809:11"/> fruitful in Children; but not extream long liv'd. A Mole on the right corner of the mouth, near the Jaw, promiſes happy days to either Sex, but on the left ſide unlawful Copulation, and much loſs thereby: a mole on the middle of the up<g ref="char:EOLhyphen"/>per lip, or on the chin, denotes ſucceſs in love; but no great fortune.</p>
+            </div>
+            <div type="part">
+               <head>Good or Bad Fortune ſignified by Moles in the Bodyes of Men or Women, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <figure>
+                     <figDesc>Adam and Eve and the serpent in the Garden of Eden</figDesc>
+                  </figure>
+               </p>
+               <p>A Mole on the right arm; denotes Riches and Honour to a man or woman, by great undertakings, and happy marriages: a mole on the left arm, under the wriſt, denotes the Party to be croſſed in his iſſue, but that he ſhall attain riches: a mole on the arm-pit, ſignifies ſickneſs and hardſhip by travel: a mole on the right ſide, and upper part of the breaſt, denotes the party to encreaſe in wealth, by tillage, and other ru<g ref="char:EOLhyphen"/>ral imployments: a Mole on the back enclining to the right ſide, denotes riches and honour, to be gained by the favour of great Men: a Mole on the upper part of the right ſide the belly, de<g ref="char:EOLhyphen"/>notes to a Man good fortune in marriages; and to a Woman hopeful Children: a Mole on the left ſide the breaſt, threatens a man with diſgrace, &amp; loſs of friendſhip, a woman with poverty, neglect, and diſregard of her affairs: a Mole on the left ſide the belly, denotes indifferent good fortune to man or woman: a Mole on the groin, enclining to the right ſide of the loin,
+<figure>
+                     <figDesc>a nude man and woman</figDesc>
+                  </figure> ſignifies proſperity, and fortune to man or wo<g ref="char:EOLhyphen"/>man, by marriage, or other ways: a mole appear<g ref="char:EOLhyphen"/>ing on the right or left knee, denotes a perſon will advantage himſelf by travel into ſtrange Countrys: a mole on the calf of a man's Legg, denotes him exceeding luſtful, and deſirous of other mens wives, endangering himſelf; and to a woman, loſs of honour, not undeſervedly: a mole on the middle of the privy members, de<g ref="char:EOLhyphen"/>notes great infirmitys, and a continuation of troubles to a man; but to a woman, to be be<g ref="char:EOLhyphen"/>loved, and have many Children: a mole on the right ſide, ſomewhat above the lower part of the privy members, declares a man happy in womens love, and to gain much by marriage: A Mole on the right th<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> near the huckle, denotes the party to grow rich, by rural affairs. Two Mol<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> anſwering equally on either ſide the Gullet, threatens untimely Death.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:153809:12"/>
+               <head>Curious Merry Riddles on ſundry matters, to paſs away the time in harmleſs mirth, and witty Recreation.</head>
+               <div type="riddle">
+                  <head>Riddle 1.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a knight on horseback</figDesc>
+                     </figure>
+                  </p>
+                  <l>Moſt ſwift I am, and moſt I pride,</l>
+                  <l>When I ſubmit to others Guide;</l>
+                  <l>In bloody Battels oft i'm ſeen;</l>
+                  <l>Since time begun my Race has <hi>been.</hi>
+                  </l>
+                  <p>Solution. <hi>It is a Horſe and his Rider.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 2.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a fountain</figDesc>
+                     </figure>
+                  </p>
+                  <l>From <hi>earths</hi> deep <hi>womb,</hi> I fetch my treaſure,</l>
+                  <l>That to Mankind affords much pleaſure,</l>
+                  <l>Without what is produc'd by me,</l>
+                  <l>Nothing could live, but all muſt dye.</l>
+                  <p>Solution, <hi>It is a Fountain flowing with Water.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 3.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a person sitting in a chair reading a book</figDesc>
+                     </figure>
+                  </p>
+                  <l>Though twenty-four I do contain,</l>
+                  <l>They change to thouſands in the main;</l>
+                  <l>Fair Ladys Court me, and diſpute</l>
+                  <l>By me, although my ſelf am mute.</l>
+                  <p>Solution. <hi>It is a Book, in which are but twenty-four Letters, though multiplied into Millions, and Read by ladies, out of which Arguments are raiſed, <hi>&amp;c.</hi>
+                     </hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 4.</head>
+                  <p>
+                     <figure>
+                        <figDesc>an insect</figDesc>
+                     </figure>
+                  </p>
+                  <l>I in Kings Pallaces am <hi>ſeen.</hi>
+                  </l>
+                  <l>And Kiſs the hand of <hi>King</hi> and <hi>Queen,</hi>
+                  </l>
+                  <l>Sometimes I am, ſometimes i'm not,</l>
+                  <l>Yet <hi>never</hi> im of men forgot:</l>
+                  <l>I being near, they gather ſtore,</l>
+                  <l>But being gone, <hi>earth's</hi> bare and poor.</l>
+                  <p>Solution, <hi>This is a Flie that gets <hi>away</hi> be<g ref="char:EOLhyphen"/>fore winter, and in ſpring or ſummer returns again.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <pb n="21" facs="tcp:153809:12"/>
+                  <head>Riddle 5.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a flower</figDesc>
+                     </figure>
+                  </p>
+                  <l>Though low I am, yet I am fair,</l>
+                  <l>Fine I adys me about them wear,</l>
+                  <l>They Kiſs me, lay me in their Breaſt,</l>
+                  <l>When Gallants are not half ſo bleſt.</l>
+                  <p>Solution. <hi>It is a Pink, or July-Flower, much coveted</hi> by <hi>ladies.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 6.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a kneeling king is crowned by another figure</figDesc>
+                     </figure>
+                  </p>
+                  <l>What Fortune gives <hi>I</hi> wear in ſtate,</l>
+                  <l>A little thing does make <hi>me</hi> great;</l>
+                  <l>All do admire me when <hi>I</hi> wear it,</l>
+                  <l>Yet Cares attend all thoſe that bear it.</l>
+                  <p>Solution, <hi>Is is a Crown on a King's Head.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 7.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a flower</figDesc>
+                     </figure>
+                  </p>
+                  <l>When my <hi>beloved</hi> looks on me,</l>
+                  <l>Then <hi>I</hi> always <hi>cheerful</hi> be;</l>
+                  <l>But when it <hi>ceaſes</hi> to do ſo,</l>
+                  <l>Drawn in and veil'd, <hi>I</hi> mournful grow.</l>
+                  <p>Solution, <hi>It is a Marigold, opening in the morning to the Suns riſing, but cloſes at its ſetting.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 8.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a fox</figDesc>
+                     </figure>
+                  </p>
+                  <l>Wiſeſt of <hi>Creatures Men me</hi> call,</l>
+                  <l>Though many times they <hi>ſeek</hi> my fall,</l>
+                  <l>But <hi>when</hi> they moſt do Envy <hi>me,</hi>
+                  </l>
+                  <l>
+                     <hi>I then fare beſt</hi> and <hi>fatteſt be.</hi>
+                  </l>
+                  <p>Solution, <hi>It is a Fox, who, as the old Proverb is, the more he is curſt, the better he fares.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <pb n="22" facs="tcp:153809:13"/>
+                  <head>Riddle 9.</head>
+                  <p>
+                     <figure>
+                        <figDesc>an elephant with a castle on its back</figDesc>
+                     </figure>
+                  </p>
+                  <l>
+                     <hi>I</hi> am <hi>eſteem'd,</hi> though i'm not fair,</l>
+                  <l>Buildings upon my back <hi>I</hi> bear,</l>
+                  <l>in War I terrible am known,</l>
+                  <l>And a whole Squardron have o'erthrown.</l>
+                  <p>Solution, <hi>It is an Elephant, with a Caſtle on his back.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 10.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a salamander</figDesc>
+                     </figure>
+                  </p>
+                  <l>What all conſumes, beſt <hi>pleaſes</hi> me,</l>
+                  <l>I court that from which others <hi>flee;</hi>
+                  </l>
+                  <l>Strange thing to tell, unhurt I <hi>lie</hi>
+                  </l>
+                  <l>And <hi>thrive, where</hi> all things <hi>elſe</hi> would die.</l>
+                  <p>Solution, <hi>it is a Salamander bred</hi> by <hi>a violent heat, and living in fire.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 11.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a griffin</figDesc>
+                     </figure>
+                  </p>
+                  <l>Both Bird and Beaſt I am <hi>together,</hi>
+                  </l>
+                  <l>Yet <hi>ſeperated</hi> I am <hi>neither,</hi>
+                  </l>
+                  <l>With terror I o're Citys fly,</l>
+                  <l>And by my fury many dye.</l>
+                  <p>Solution, <hi>it is a Griffin, the fore part like an</hi> Eagle, <hi>and the hinder part like a</hi> Lyon.</p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 12.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a garden</figDesc>
+                     </figure>
+                  </p>
+                  <l>When I my <hi>White Robes have</hi> put on,</l>
+                  <l>My <hi>friends</hi> from me then all <hi>are gone,</hi>
+                  </l>
+                  <l>But when in <hi>Green</hi> I do <hi>appear,</hi>
+                  </l>
+                  <l>They <hi>haſte</hi> with <hi>pleaſure</hi> to draw <hi>near.</hi>
+                  </l>
+                  <p>Solution, <hi>it is a Garden, the white Robes is its covering with Snow in winter, the Green is pleaſantneſs in Summer to walk in.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <pb n="23" facs="tcp:153809:13"/>
+                  <head>Riddle 13.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a snail</figDesc>
+                     </figure>
+                  </p>
+                  <l>Though others waſte, and ſpend their ſtore,</l>
+                  <l>
+                     <hi>I</hi> have no <hi>means,</hi> yet am not poor,</l>
+                  <l>By providence <hi>I</hi> ſtill am fed,</l>
+                  <l>And have a Houſe to hide my head.</l>
+                  <p>Solution, <hi>It is a Snail with her Shell on her back.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 14.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a man unlocks a door as a dog(?) watches him</figDesc>
+                     </figure>
+                  </p>
+                  <l>What <hi>force</hi> and <hi>ſtrength</hi> can ſcarce get thro<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>I</hi> with a touch you <hi>ſee</hi> can do;</l>
+                  <l>A many in the <hi>ſtreet</hi> would lie,</l>
+                  <l>Were <hi>I</hi> not to befriend them high.</l>
+                  <p>Solution, <hi>It is a</hi> key, <hi>with which a man unlocks the Door to get into the houſe.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 15.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a woman nursing a child on her lap</figDesc>
+                     </figure>
+                  </p>
+                  <l>Little and big ſits on a ſtone,</l>
+                  <l>Yet <hi>once</hi> they both of them was one;</l>
+                  <l>Of tongues alike they do partake,</l>
+                  <l>And yet but one of them can ſpeak.</l>
+                  <p>Solution, <hi>It is a Mother ſitting with her Child in her lap.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle 16.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a pair of crossed scepters</figDesc>
+                     </figure>
+                  </p>
+                  <l>We <hi>uſeleſs</hi> are till took in hand,</l>
+                  <l>And then we have a vaſt Command;</l>
+                  <l>No ſooner <hi>ſeen</hi> but we're ador'd,</l>
+                  <l>And large <hi>Protections</hi> do afford;</l>
+                  <l>We're <hi>coveted</hi> both far and near,</l>
+                  <l>And for us bloody ſtrifes appear.</l>
+                  <p>Solution, <hi>Theſe are Scepters in the hands of Monarchs, and are much ſtrugled for.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <pb n="24" facs="tcp:153809:14"/>
+                  <head>Riddle XVII</head>
+                  <p>
+                     <figure>
+                        <figDesc>a rooster, with a farmhouse in the background</figDesc>
+                     </figure>
+                  </p>
+                  <l>A Bloody Crown upon my head,</l>
+                  <l>In <hi>Plumes well</hi> arm'd I ſtrike a dread</l>
+                  <l>In <hi>Noah's</hi> Ark our voice was heard.</l>
+                  <l>I fight, but wealth I don't regard;</l>
+                  <l>
+                     <hi>I</hi> precious Jewels ſpurn, and wou'd</l>
+                  <l>Forſake gold Mines for little food.</l>
+                  <p>Solution, <hi>It is a Cock with Comb or Crown on his head, his Arms are his Spurs, <hi>&amp;c.</hi>
+                     </hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle XVIII.</head>
+                  <p>
+                     <figure>
+                        <figDesc>the sun</figDesc>
+                     </figure>
+                  </p>
+                  <l>I View the world in <hi>little</hi> ſpace,</l>
+                  <l>Am <hi>always reſtleſs</hi> changing <hi>place;</hi>
+                  </l>
+                  <l>No Food I eat, but by my power,</l>
+                  <l>Procure what <hi>Millions</hi> do devour.</l>
+                  <p>Solution, <hi>It is the Sun in perpetual Courſe, whoſe influence makes all things fruitful.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle XIX.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a horseshoe</figDesc>
+                     </figure>
+                  </p>
+                  <l>Tho' ſenſe and motion in my <hi>ſelf</hi> there's none,</l>
+                  <l>Yet thoſe that have, it metheir ſafe-guard own,</l>
+                  <l>Dragging me over <hi>hills</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <hi>mountains</hi> ſleep,</l>
+                  <l>
+                     <hi>Whilſt</hi> I with <hi>railing</hi> ſt<gap reason="illegible" resp="#MURP" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> a <hi>Coil</hi> do keep,</l>
+                  <l>in ſwifteſt Races and in Warlike deeds,</l>
+                  <l>Without my <hi>help</hi> the braveſt <hi>ſeldom</hi> ſpeeds.</l>
+                  <p>Solution, <hi>it is a Horſe-ſhooe, that accompany the Horſe, and ſaves his Feet.</hi>
+                  </p>
+               </div>
+               <div type="riddle">
+                  <head>Riddle XX.</head>
+                  <p>
+                     <figure>
+                        <figDesc>a ship</figDesc>
+                     </figure>
+                  </p>
+                  <l>I ſpread my Wings to forreign Regions fly,</l>
+                  <l>Over the Living paſs, and yet have I</l>
+                  <l>The Living in the Womb, I Thunder bear,</l>
+                  <l>Combate with ſtorms, and Elements make war,</l>
+                  <l>My going and returning makes ſome glad;</l>
+                  <l>But Loſing me, the merrieſt ſoon grow ſad.</l>
+                  <p>Solution, <hi>it is a Ship, her Sails are here termed Wings her going over the Living, is the Fiſh, her men within her her Living, her thunder her Guns.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Reader,</hi> I have made all as plain and eaſie as may be, theſe <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing to the placing of the Cuts, to which they anſwer, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>not miſmatch them: So not doubting this Book take <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leaſe you.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153809:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
